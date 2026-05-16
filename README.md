@@ -93,8 +93,8 @@ newsmind-ai/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Shreya-Wani/news-rag-assistant.git
-cd news-rag-assistant
+git clone https://github.com/ShivamPatel145/NewsMind-AI.git
+cd NewsMind-AI
 ```
 
 ### 2. Setup Backend
@@ -218,6 +218,13 @@ MongoDB Atlas
 
 ---
 
+## 👨‍💻 Author
+
+**Shivam Patel**  
+🔗 GitHub: [@ShivamPatel145](https://github.com/ShivamPatel145)
+
+---
+
 ## 📄 License
 
 This project is licensed under the ISC License.
@@ -225,5 +232,5 @@ This project is licensed under the ISC License.
 ---
 
 <p align="center">
-  Built with ❤️ using <strong>MERN + LangChain + Groq + Pinecone</strong>
+  Built with ❤️ by <strong>Shivam Patel</strong> using <strong>MERN + LangChain + Groq + Pinecone</strong>
 </p>
